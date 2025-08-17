@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\360MoveData\\Users\\one\\Desktop\\\u7B97\u6CD5\\\u7EC3\u4E60\\algorithmTest\\algorithmTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDEBE2A-FA7A-43EA-9678-78E81C48AC20}|algorithmTest.vcxproj|E:\\360MoveData\\Users\\one\\Desktop\\\u7B97\u6CD5\\\u7EC3\u4E60\\algorithmTest\\algorithmTest\\algorithmTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BDEBE2A-FA7A-43EA-9678-78E81C48AC20}|algorithmTest.vcxproj|solutionrelative:algorithmTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "algorithmTest.cpp",
+              "DocumentMoniker": "E:\\360MoveData\\Users\\one\\Desktop\\\u7B97\u6CD5\\\u7EC3\u4E60\\algorithmTest\\algorithmTest\\algorithmTest.cpp",
+              "RelativeDocumentMoniker": "algorithmTest.cpp",
+              "ToolTip": "E:\\360MoveData\\Users\\one\\Desktop\\\u7B97\u6CD5\\\u7EC3\u4E60\\algorithmTest\\algorithmTest\\algorithmTest.cpp",
+              "RelativeToolTip": "algorithmTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T12:12:42.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
